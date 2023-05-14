@@ -1,0 +1,15 @@
+{
+  "USER_NOT_FOUND": "Користувач не знайдений!",
+  "USER_NOT_VERIFIED": "Користувач не верифікований!",
+  "USER_ALREADY_EXISTS": "Користувач уже існує!",
+  "SAME_PASSWORDS": "Новий пароль не може збігатися з поточним!",
+  "PASSWORD_TOKEN_NOT_EXISTS": "'Password Reset Token' не існує!",
+  "INVALID_PASSWORD_TOKEN": "Недійсний 'password reset token'!",
+  "TOKEN_INVALID": "'Payload token' недійсний",
+  "UNSUPPORTED_FILE_EXTENSION": "Непідтримуване розширення файлу!",
+  "FILE_SIZE_TOO_LARGE": "Розмір файлу занадто великий!",
+  "NO_FILE_ERROR": "Файл не надано!",
+  "UNAUTHORIZED": "Не авторизовано!",
+  "WRONG_PASSWORD_OR_EMAIL": "Неправильний пароль або email",
+  "INTERNAL_ERROR": "Внутрішня помилка!"
+}

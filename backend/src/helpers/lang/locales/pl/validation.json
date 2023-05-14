@@ -1,0 +1,13 @@
+{
+  "personal": {
+    "firstNameRequired": "Proszę podać swoje imię!",
+    "firstNameMax": "Imię powinno mieć maksymalnie 100 znaków",
+    "emailRequired": "Email jest wymagany!",
+    "emailInvalid": "Email jest nie prawidłowy!"
+  },
+  "password": {
+    "minSymbols": "Długość hasła musi wynosić co najmniej 8 znaków",
+    "maxSymbols": "Długość hasła nie może przekraczać 30 znaków",
+    "passwordRequired": "Wymagane jest hasło"
+  }
+}

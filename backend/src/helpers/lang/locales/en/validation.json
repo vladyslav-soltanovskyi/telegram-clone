@@ -1,0 +1,13 @@
+{
+  "personal": {
+    "firstNameRequired": "Enter your firstName please!",
+    "firstNameMax": "First name should have a maximum of 100 symbols",
+    "emailRequired": "Email is required!",
+    "emailInvalid": "Email is invalid!"
+  },
+  "password": {
+    "minSymbols": "Password length must be at least 8 characters",
+    "maxSymbols": "Password length must not exceed 30 characters",
+    "passwordRequired": "Password is required"
+  }
+}

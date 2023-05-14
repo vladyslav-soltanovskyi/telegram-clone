@@ -1,0 +1,13 @@
+{
+  "personal": {
+    "firstNameRequired": "Необхідно вказати ім'я!",
+    "firstNameMax": "Ім’я має містити максимум 100 символів",
+    "emailRequired": "Необхідно вказати адресу email!",
+    "emailInvalid": "Email недійсни"
+  },
+  "password": {
+    "minSymbols": "Довжина пароля має бути не менше 8 символів",
+    "maxSymbols": "Довжина пароля не повинна перевищувати 16 символів",
+    "passwordRequired": "Необхідно ввести пароль"
+  }
+}

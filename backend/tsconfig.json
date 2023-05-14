@@ -1,0 +1,41 @@
+{
+	"compilerOptions": {
+		"target": "esnext",
+    "lib": ["esnext"],
+    "allowJs": true,
+		"strict": false,
+		"skipLibCheck": true,
+		"moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
+		"removeComments": true,
+    "baseUrl": "./src",
+    "module": "esnext",
+    "noEmit": true,
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "paths": {
+      "@email-templates/*": ["./common/email-templates/*"],
+      "@constants/*": ["./common/constants/*"],
+      "@config/*": ["./config/*"],
+			"@types-app/*": ["./common/types/*"],
+      "@errors/*": ["./common/errors/*"],
+      "@helpers/*": ["./helpers/*"],
+      "@repositories/*": ["./repositories/*"],
+      "@services/*": ["./services/*"],
+      "@controllers/*": ["./controllers"],
+      "@routes/*": ["./api/routes/*"],
+      "@middlewares/*": ["./api/middlewares/*"],
+      "@validation/*": ["./validation/*"]
+    },
+		"outDir": "./dist"
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"],
+  "ts-node": {
+    "compilerOptions": {
+      "module": "commonjs"
+    },
+    "require": ["tsconfig-paths/register"]
+  }
+}

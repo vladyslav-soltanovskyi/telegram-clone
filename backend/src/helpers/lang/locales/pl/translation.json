@@ -1,0 +1,15 @@
+{
+  "USER_NOT_FOUND": "Użytkownik nie znaleziony!",
+  "USER_NOT_VERIFIED": "Użytkownik niezweryfikowany!",
+  "USER_ALREADY_EXISTS": "Użytkownik już istnieje!",
+  "SAME_PASSWORDS": "Nowe hasło nie powinno być zgodne z obecnym!",
+  "PASSWORD_TOKEN_NOT_EXISTS": "'Password reset token' nie istnieje!",
+  "INVALID_PASSWORD_TOKEN": "Nieprawidłowy 'Password reset token'!",
+  "TOKEN_INVALID": "'Payload token' jest nieprawidłowy",
+  "UNSUPPORTED_FILE_EXTENSION": "Nieobsługiwane rozszerzenie pliku!",
+  "FILE_SIZE_TOO_LARGE": "Rozmiar pliku jest za duży!",
+  "NO_FILE_ERROR": "Nie podano pliku!",
+  "UNAUTHORIZED": "Nieautoryzowany!",
+  "WRONG_PASSWORD_OR_EMAIL": "Nieprawidłowe hasło lub adres e-mail",
+  "INTERNAL_ERROR": "Błąd wewnętrzny!"
+}
