@@ -1,5 +1,5 @@
-# telegram-clone
-Telegram clone
+# Telegram clone
+
 ⚠️ I am still developing this project
 
 this is a [link](https://dribbble.com/shots/14719274-Telegram-Desktop-macOS-Big-Sur-redesign) to the design of my project
